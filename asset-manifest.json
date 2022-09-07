@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.06cfea18.css",
+    "main.js": "./static/js/main.b0610eef.js",
+    "static/js/787.9bb48110.chunk.js": "./static/js/787.9bb48110.chunk.js",
+    "static/media/desenvolvedor.png": "./static/media/desenvolvedor.9faa3362e2aba5412d79.png",
+    "static/media/hapi.png": "./static/media/hapi.5930884ebf11e1e42570.png",
+    "static/media/postG.png": "./static/media/postG.db75c4cfc3de042850af.png",
+    "static/media/js-icon.jpeg": "./static/media/js-icon.e7ba3435fefece2c48d5.jpeg",
+    "static/media/React-icon.svg.png": "./static/media/React-icon.svg.1e5639fdfd7c944093d3.png",
+    "static/media/node-logo.png": "./static/media/node-logo.e71346fe0fec16ec5f6e.png",
+    "static/media/logo-css.png": "./static/media/logo-css.bc75ccc78e3bf74f8aed.png",
+    "static/media/html-icon.png": "./static/media/html-icon.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/redux-icon.svg": "./static/media/redux-icon.04851e4f576287d685ab7afb5e4717a9.svg",
+    "static/media/logo.svg": "./static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "./index.html",
+    "main.06cfea18.css.map": "./static/css/main.06cfea18.css.map",
+    "main.b0610eef.js.map": "./static/js/main.b0610eef.js.map",
+    "787.9bb48110.chunk.js.map": "./static/js/787.9bb48110.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06cfea18.css",
+    "static/js/main.b0610eef.js"
+  ]
+}
